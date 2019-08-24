@@ -1,0 +1,9 @@
+{
+  "name": "owenNmauricio",
+  "version": "1.0.0",
+  "description": "Wedding website",
+  "main": "app.js",
+  "author": "Jorge Rivera <jorgeriv@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
